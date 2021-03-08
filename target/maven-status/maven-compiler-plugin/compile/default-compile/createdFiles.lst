@@ -1,0 +1,9 @@
+com\mycompany\tplivoripm\ctrl\CtrlCentral.class
+com\mycompany\tplivoripm\metier\MessageDor.class
+com\mycompany\tplivoripm\ctrl\CtrlSupprimer.class
+com\mycompany\tplivoripm\ctrl\CtrlEnregistrer.class
+com\mycompany\tplivoripm\ctrl\CtrlModifier.class
+com\mycompany\tplivoripm\ctrl\CtrlModifierInfos.class
+com\mycompany\tplivoripm\dao\MessageDorDao.class
+com\mycompany\tplivoripm\ctrl\CtrlSupprimerConfirmation.class
+com\mycompany\tplivoripm\metier\Outil.class

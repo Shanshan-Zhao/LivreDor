@@ -1,0 +1,90 @@
+html, body {
+    font-family: Arial, sans-serif;
+    height: 100%;
+    margin-top: 0%;
+    text-align:center;
+}
+
+h1{
+    text-align:center;
+}
+
+li{
+    list-style-type:none;
+}
+
+.msg_info{
+    color: #00DD00;
+    font-style:italic;
+}
+
+.msg_erreur{
+    color: #FF0000;
+    font-style:italic;
+}
+
+/*Couleur de fond et couleur de l'écriture des bouton*/
+.bouton {
+    border: 0;
+    line-height: 2.5;
+    padding: 0 20px;
+    font-size: 1rem;
+    text-align: center;
+    color: #fff;
+    text-shadow: 1px 1px 1px #000;
+    border-radius: 10px;
+    background-color: #CCCCFF;
+    background-color: rgba(220, 0, 0, 1);
+    background-image: linear-gradient(to top left,
+    rgba(0, 0, 0, .2),
+    rgba(0, 0, 0, .2) 30%,
+    rgba(0, 0, 0, 0));
+    box-shadow: inset 2px 2px 3px rgba(255, 255, 255, .6),
+    inset -2px -2px 3px rgba(0, 0, 0, .6);
+}
+
+table {
+    margin-top: 1em;
+    border: medium solid #333333;
+    border-collapse: collapse;
+    table-layout: fixed;
+    width: 60%;
+    margin: auto;
+}
+
+th {
+    color: #B22222;
+    background-color: rgb(178, 34, 34, 0.1);
+    font-weight: bold;
+    border: 2px solid #333333;
+    text-align: center; 
+}
+
+td {
+    border: 2px solid #082D61;
+    color: #333333;
+/*    text-align: center;*/
+}
+
+a{
+    text-decoration:none;
+    line-height: 2.5;
+}
+/*
+a:link {
+    color:black;
+    text-decoration:underline;
+}
+
+a:visited {
+    color:blue;
+    text-decoration:none;
+}
+a:hover {
+    color:red;
+    text-decoration:none;
+}
+a:active {
+    color:yellow;
+    text-decoration:none;
+}*/
