@@ -15,8 +15,6 @@
     <body>
         <h1>Compte-rendu de la modification du message</h1>
         <%
-//            String NumMsg = (String)request.getAttribute("NumMsg");
-//            String length = (String) session.getAttribute("length");
             out.println((int)request.getAttribute("NumMsg"));
             out.println("</br>");
         %>

@@ -5,7 +5,7 @@
  */
 package com.mycompany.tplivoripm.metier;
 
-import static com.sun.corba.se.spi.presentation.rmi.StubAdapter.request;
+//import static com.sun.corba.se.spi.presentation.rmi.StubAdapter.request;
 import java.util.Arrays;
 import javax.servlet.http.HttpSession;
 
